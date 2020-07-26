@@ -8807,19 +8807,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Software team\\.nuget\\packages\\": {}
+    "C:\\Users\\safeer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Software team\\source\\repos\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
+      "projectUniqueName": "C:\\Users\\safeer\\Documents\\GitHub\\ProgramDataReports\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
       "projectName": "Ecommerce",
-      "projectPath": "C:\\Users\\Software team\\source\\repos\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
-      "packagesPath": "C:\\Users\\Software team\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Software team\\source\\repos\\Ecommerce\\Ecommerce\\obj\\",
+      "projectPath": "C:\\Users\\safeer\\Documents\\GitHub\\ProgramDataReports\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
+      "packagesPath": "C:\\Users\\safeer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\safeer\\Documents\\GitHub\\ProgramDataReports\\Ecommerce\\Ecommerce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Software team\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\safeer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
